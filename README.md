@@ -1,4 +1,4 @@
-# [Blog Name]
+# [pocroianu]
 
 This is a blog website created using [Hugo](https://gohugo.io/) and hosted on [GitHub Pages](https://pages.github.com/). 
 
@@ -43,10 +43,6 @@ To deploy the website to GitHub Pages, run the following command:
 
 
 This will generate the static HTML files and push them to the `gh-pages` branch of the repository.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or a pull request.
 
 ## License
 
